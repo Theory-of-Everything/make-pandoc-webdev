@@ -1,7 +1,7 @@
 # make-pandoc-webdev
 
-This is my static stie generation workflow presented in one of my [youtube videos](https://youtu.be/VKbla_fkWxA)
-This is mainly meant to be a template to be used in other projects, fell free to use whereever.
+This is my static site generation workflow presented in one of my [youtube videos](https://youtu.be/VKbla_fkWxA)
+This is mainly meant to be a template to be used in other projects, fell free to use wherever.
 
 ### Usage:
 this is a tool meant to be used for you own sites! install it by doing
@@ -22,7 +22,7 @@ Clean the build directory with
 ```bash
 make clean
 ```
-Test your curret build with
+Test your current build with
 ```bash
 make test
 ```
